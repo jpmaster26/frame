@@ -12,7 +12,7 @@ body{
 </head>
 <body>
 <h1>GENEVIVE B. VILLARIN</h1>
-<center><img src="genpict.jpeg" height="300" width="350"></center>
+<center><img src="genpict.jpg" height="300" width="350"></center>
 <p><center><a href="content.php" target="content">HOME</a></center></p>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Genevive</p>
